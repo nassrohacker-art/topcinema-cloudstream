@@ -1,0 +1,12 @@
+{
+  "name": "TopCinema Repo",
+  "description": "مشاهدة أفلام ومسلسلات من موقع TopCinema مباشرة في CloudStream",
+  "icon": "https://web6.topcinema.cam/wp-content/uploads/2023/09/cropped-logo.png",
+  "plugins": [
+    {
+      "name": "TopCinema",
+      "description": "إضافة TopCinema لمشاهدة أحدث الأفلام",
+      "url": "https://raw.githubusercontent.com/nassrohacker-art/topcinema-cloudstream/main/topcinema.js"
+    }
+  ]
+}
